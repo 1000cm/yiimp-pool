@@ -14,4 +14,5 @@ make
 
 ## 安装矿池后 
 /var/web 矿池web目录
+
 /var/stratum stratum目录
